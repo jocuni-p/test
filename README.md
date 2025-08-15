@@ -1,7 +1,6 @@
-=======================================================================
 ### NOTA: 
 Este codigo esta copiado del repositorio de mis companyeros de 42: https://github.com/SimonIsCoding/ft_irc/tree/main
-al cual he eliminado los archivos y funciones de la parte Bonus para poder indexarlo en DEEPWIKI y analizar en rofundidad.
+al cual he eliminado los archivos y funciones de la parte Bonus para poder indexarlo en DEEPWIKI y analizar en profundidad.
  
 <a href="https://deepwiki.com/jocuni-p/test"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 
