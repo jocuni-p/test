@@ -1,12 +1,11 @@
+
+## Link al analisis del codigo: 
+<a href="https://deepwiki.com/jocuni-p/test"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
+
+
+
 # IRC Server Project
-
-Link al analisis del codigo: <a href="https://deepwiki.com/jocuni-p/test"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 This project implements an IRC (Internet Relay Chat) server using C++98 and Linux system calls. The server handles multiple client connections, channels, and various IRC commands.
-
-## Final score
-<div align=center>
-<img src="https://github.com/SimonIsCoding/utils_and_random/blob/main/ft_irc_grade.png"/>
-</div>
 
 ## Socket Programming Basics
 
